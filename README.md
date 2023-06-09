@@ -1,7 +1,3 @@
-### 통계 중간 과제: 데이터로 시작하는 연구 제안
-
-0. 데이터에 기반한 가설을 세울 것
-1. 가설이 데이터 분석과 실험으로 증명될 수 있어야 할 것
-2. 데이터의 유효성을 설득할 것
-3. 통계학을 포함한 분석 방법론을 제시할 것 - 가설을 뒷받침하는
-4. A열 독립 변수, B열 종속 변수, 나머지 통제 변수 - 어떻게 통제 변수를 통제할 것인지 밝힐 것
+### Demographic inequity found in Wiki based knowledge
+* Comparison of the number of passengers and the number of wiki edit history in railway stations
+* For statistics project in 2023 spring
